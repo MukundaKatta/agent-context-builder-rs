@@ -2,9 +2,11 @@
 name = "agent-context-builder"
 version = "0.1.0"
 edition = "2021"
+rust-version = "1.70"
 description = "Compose LLM system prompts from named sections with ordering and conditionals"
 license = "MIT"
 repository = "https://github.com/MukundaKatta/agent-context-builder-rs"
+readme = "README.md"
 keywords = ["llm", "agent", "prompt", "system", "context"]
 categories = ["text-processing"]
 exclude = ["target/*", ".github/*", "*.log"]
